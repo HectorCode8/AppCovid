@@ -1,0 +1,2 @@
+# AppCovid
+Aplicación de practica
